@@ -1,4 +1,6 @@
-secondtimefixed by new-bugfixed
+thirdtimefixed by new-bugfixed
+
+new-bugfixed
 test test test
 secondtimeadded by new-feature
 thirdtimeadded by new-feature
